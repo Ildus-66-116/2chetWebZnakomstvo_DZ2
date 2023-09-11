@@ -1,0 +1,12 @@
+html{
+    background-color: #daeede;
+}
+h2{
+    color: hsla(337, 100%, 59%, 0.919);
+}
+h1{
+    color: rgb(12, 8, 206);
+}
+p.desc{
+    color: blue;
+}
